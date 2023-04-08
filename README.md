@@ -45,6 +45,6 @@
 </marquee><p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
   <a href="https://space.bilibili.com/299614044"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical" alt="哔哩哔哩" /></a>
 <a href="https://github.com/liuchuan123/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
-<a href="https://github.com/liuchuan123/liuchuan123/images/wechat.png"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
-<a href="https://github.com/liuchuan123/liuchuan123/images/qq.png"><img src="https://img.shields.io/badge/QQ-QQ-yellow" alt="QQ-QQ-yellow" /></a>
+<a href="https://raw.githubusercontent.com/liuchuan123/liuchuan123/main/images/wechat.png?raw=true"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
+<a href="https://raw.githubusercontent.com/liuchuan123/liuchuan123/main/images/qq.png?raw=true"><img src="https://img.shields.io/badge/QQ-QQ-yellow" alt="QQ-QQ-yellow" /></a>
 </p>
